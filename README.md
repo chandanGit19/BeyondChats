@@ -6,6 +6,9 @@ This is the assignment given by BeyondChats in this assignment i have use to Api
 i have fetch data and with the help of responce i have created the whole ui , there is no backend support as the i have Used the given API end points so this is a typically 
 static fiel as there is no data change happening 
 
+You can check the live site :https://beyondchatss.netlify.app
+
+There is a request please after evaluating please email me as my netlify account is almost full and i have to host some more projects so please inform me through email that is chandankumaryadav544@gmail.com
 ## Available Scripts
 
 In the project directory, you can run:
