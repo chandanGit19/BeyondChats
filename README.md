@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the assignment given by BeyondChats in this assignment i have use to Api end points to create the chats and whole message section so with the help of Axios call 
+i have fetch data and with the help of responce i have created the whole ui , there is no backend support as the i have Used the given API end points so this is a typically 
+static fiel as there is no data change happening 
+
 ## Available Scripts
 
 In the project directory, you can run:
